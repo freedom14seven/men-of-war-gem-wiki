@@ -1,2 +1,3 @@
-# men-of-war-gem-wiki
-My own Men of War Gem Editor Knowledge base
+# Men of War Gem Editor Knowledge base
+
+Most of the info will be in the Wiki.
